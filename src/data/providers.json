@@ -1,0 +1,49 @@
+{
+  "providers": [
+    {
+      "id": "1",
+      "facilityName": "CityHealth Medical Center",
+      "doctorName": "Dr. Jane Smith",
+      "specialty": "TB Test",
+      "availableHours": [
+        "09:00", "10:00", "11:00", "13:00", "14:00", "15:00", "16:00"
+      ]
+    },
+    {
+      "id": "2",
+      "facilityName": "WorkSafe Clinic",
+      "doctorName": "Dr. John Doe",
+      "specialty": "Drug Test",
+      "availableHours": [
+        "09:00", "10:00", "11:00", "12:00", "13:00", "14:00", "15:00", "16:00"
+      ]
+    },
+    {
+      "id": "3",
+      "facilityName": "HeartWell Institute",
+      "doctorName": "Dr. Emily Brown",
+      "specialty": "Heart Screening",
+      "availableHours": [
+        "09:00", "10:00", "11:00", "13:00", "14:00", "15:00"
+      ]
+    },
+    {
+      "id": "4",
+      "facilityName": "TotalCare Health Center",
+      "doctorName": "Dr. Michael Chen",
+      "specialty": "General Health Check",
+      "availableHours": [
+        "09:00", "10:00", "11:00", "12:00", "13:00", "14:00", "15:00", "16:00"
+      ]
+    },
+    {
+      "id": "5",
+      "facilityName": "QuickLab Diagnostics",
+      "doctorName": "Dr. Sarah Johnson",
+      "specialty": "Blood Test",
+      "availableHours": [
+        "10:00", "11:00", "12:00", "13:00", "14:00", "15:00", "16:00"
+      ]
+    }
+  ]
+}

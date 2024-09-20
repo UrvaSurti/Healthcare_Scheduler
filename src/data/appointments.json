@@ -1,0 +1,11 @@
+{
+  "appointments": [
+    {
+      "id": "fcd4c76a-b12d-4a16-8c2e-38057a0a73a3",
+      "providerId": "2",
+      "dateTime": "2024-08-10T13:00",
+      "userEmail": "use1.q@gmail.com",
+      "reservationCode": "c4edf5f0-5535-42bf-87f6-dd0c6e853e39"
+    }
+  ]
+}
