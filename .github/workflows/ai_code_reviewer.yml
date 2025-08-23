@@ -4,6 +4,12 @@ on:
   pull_request:
     types: [opened, synchronize]
 
+# Add permissions for the GITHUB_TOKEN
+permissions:
+  contents: read
+  pull-requests: write
+  issues: write
+
 jobs:
   review:
     runs-on: ubuntu-latest
