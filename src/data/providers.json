@@ -44,6 +44,96 @@
       "availableHours": [
         "10:00", "11:00", "12:00", "13:00", "14:00", "15:00", "16:00"
       ]
+    },
+    {
+      "id": "6",
+      "facilityName": "MindWell Psychology Center",
+      "doctorName": "Dr. Robert Wilson",
+      "specialty": "Mental Health Assessment",
+      "availableHours": [
+        "09:00", "10:00", "11:00", "14:00", "15:00", "16:00", "17:00"
+      ]
+    },
+    {
+      "id": "7",
+      "facilityName": "FlexiTherapy Clinic",
+      "doctorName": "Dr. Lisa Martinez",
+      "specialty": "Physical Therapy",
+      "availableHours": [
+        "08:00", "09:00", "10:00", "11:00", "13:00", "14:00", "15:00", "16:00"
+      ]
+    },
+    {
+      "id": "8",
+      "facilityName": "VisionCare Eye Center",
+      "doctorName": "Dr. David Thompson",
+      "specialty": "Eye Examination",
+      "availableHours": [
+        "09:00", "10:00", "11:00", "12:00", "14:00", "15:00", "16:00"
+      ]
+    },
+    {
+      "id": "9",
+      "facilityName": "WomenFirst Health Clinic",
+      "doctorName": "Dr. Amanda Garcia",
+      "specialty": "Women's Health Check",
+      "availableHours": [
+        "09:00", "10:00", "11:00", "13:00", "14:00", "15:00", "16:00", "17:00"
+      ]
+    },
+    {
+      "id": "10",
+      "facilityName": "SkinCare Dermatology",
+      "doctorName": "Dr. Kevin Lee",
+      "specialty": "Dermatology Screening",
+      "availableHours": [
+        "10:00", "11:00", "12:00", "13:00", "14:00", "15:00"
+      ]
+    },
+    {
+      "id": "11",
+      "facilityName": "PediatricCare Children's Clinic",
+      "doctorName": "Dr. Jennifer White",
+      "specialty": "Pediatric Check-up",
+      "availableHours": [
+        "09:00", "10:00", "11:00", "13:00", "14:00", "15:00", "16:00"
+      ]
+    },
+    {
+      "id": "12",
+      "facilityName": "OrthoFlex Bone & Joint Center",
+      "doctorName": "Dr. Christopher Clark",
+      "specialty": "Orthopedic Consultation",
+      "availableHours": [
+        "08:00", "09:00", "10:00", "11:00", "14:00", "15:00", "16:00"
+      ]
+    },
+    {
+      "id": "13",
+      "facilityName": "BreathEasy Pulmonary Clinic",
+      "doctorName": "Dr. Rachel Rodriguez",
+      "specialty": "Lung Function Test",
+      "availableHours": [
+        "09:00", "10:00", "11:00", "12:00", "13:00", "14:00", "15:00"
+      ]
+    },
+    {
+      "id": "14",
+      "facilityName": "DiabetesCare Endocrine Center",
+      "doctorName": "Dr. Thomas Anderson",
+      "specialty": "Diabetes Screening",
+      "availableHours": [
+        "09:00", "10:00", "11:00", "13:00", "14:00", "15:00", "16:00", "17:00"
+      ]
+    },
+    {
+      "id": "15",
+      "facilityName": "UrgentCare Express",
+      "doctorName": "Dr. Michelle Taylor",
+      "specialty": "Urgent Care",
+      "availableHours": [
+        "08:00", "09:00", "10:00", "11:00", "12:00", "13:00", "14:00", "15:00", "16:00", "17:00", "18:00"
+      ]
     }
   ]
 }
