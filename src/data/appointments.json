@@ -104,6 +104,20 @@
       "dateTime": "2024-12-02T15:15",
       "userEmail": "amanda.rodriguez@health.com",
       "reservationCode": "9m0n1o2p-3q4r-5s6t-7u8v-9w0x1y2z3a4b"
+    },
+    {
+      "id": "85587b1b-adc5-45a0-8a3d-f3e27dca1106",
+      "providerId": "12",
+      "dateTime": "2025-08-24T08:00",
+      "userEmail": "guest@example.com",
+      "reservationCode": "09d6eae0-1b3b-4ef4-a47f-2c7eef7dafbd"
+    },
+    {
+      "id": "ec3dc14a-3651-4131-b3d4-2bc25a730bf6",
+      "providerId": "2",
+      "dateTime": "2025-08-24T13:00",
+      "userEmail": "guest@example.com",
+      "reservationCode": "42e282e7-0775-45f9-8709-54411b7c6b15"
     }
   ]
 }
